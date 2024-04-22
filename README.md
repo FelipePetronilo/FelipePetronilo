@@ -1,8 +1,17 @@
-### Hi there 👋
+# Welcome, Everyone!
+### I'm Felipe! 🥷
+Sou um apaixonado por tecnologia e inovação !
+## About me: 👋
+💻⚛ Estudante do curso Ciência da Computação
+
+🧑‍💻 Buscando especializações em IaC | DevSecOps | Cloud Computer, proficiencia em Terraform, Kubernetes, AWS e Azure DevOps.
+
+## Contato
+Sinta-se à vontade para me enviar um e-mail em felipe_petronilo@hotmail.com.
+
 
 <!--
 **FelipePetronilo/FelipePetronilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
