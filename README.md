@@ -22,7 +22,7 @@ Sou um apaixonado por tecnologia e inovação !
 Sinta-se à vontade para entrar contato em: 
 
 <a href = "felipe_petronilo@hotmail.com"><img src= "https://img.shields.io/badge/-outlook-%230078D4?style=for-the-badge&logo=microsoftoutlook" target="_blank"></a> 
-<a href = "https://github.com/FelipePetronilo" target= "_blank" rel="noopener"><img src= "https://img.shields.io/badge/-github-%23181717?style=for-the-badge&logo=github"></a>
+<a href = "https://github.com/FelipePetronilo" target= "_blank" rel="noopener"><img src= "https://img.shields.io/badge/-github-%23181717?style=for-the-badge&logo=github"> https://img.shields.io/badge/-github-%23181717?style=for-the-badge&logo=github</a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
