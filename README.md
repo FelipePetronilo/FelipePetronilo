@@ -20,7 +20,7 @@ Sou um apaixonado por tecnologia e inovação !
 <div> 
 ## Contato
 Sinta-se à vontade para me enviar um e-mail em felipe_petronilo@hotmail.com.
-Meu GitHub <a href = "https://github.com/FelipePetronilo"><img src="file:///C:/Users/flimadeolive/Downloads/github-mark-c791e9551fe4/github-mark/github-mark-white.svg" target="_blank"></a>
+Meu GitHub <a href = "https://github.com/FelipePetronilo"><img src="file:///C:/Users/flimadeolive/Downloads/github-mark-c791e9551fe4/github-mark/github-mark.svg" target="_blank"></a>
  
 
 </div>
