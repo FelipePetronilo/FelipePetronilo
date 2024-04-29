@@ -17,9 +17,13 @@ Sou um apaixonado por tecnologia e inovação !
   <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
+<div> 
 ## Contato
 Sinta-se à vontade para me enviar um e-mail em felipe_petronilo@hotmail.com.
+Meu GitHub <a href = "https://github.com/FelipePetronilo"><img src="file:///C:/Users/flimadeolive/Downloads/github-mark-c791e9551fe4/github-mark/github-mark-white.svg" target="_blank"></a>
+ 
 
+</div>
 
 <!--
 **FelipePetronilo/FelipePetronilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
